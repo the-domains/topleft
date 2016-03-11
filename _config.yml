@@ -1,29 +1,18 @@
-name: topleft
-favicon: null
-layout_spectrum: 0.5974577167071402
-typography_spectrum: 0.9411587107460946
-title: TOP-LEFT
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.04207395063713193
-  lightness: 0.7536498794797808
-  saturation: 0.26429149415344
-  rhythmicContrast: 0.21589103480800986
+    - '#C0C8C8'
+    - '#00D0C8'
+    - '#707070'
+    - '#00C8C8'
+    - '#000000'
+  brandStrength: 1
+  lightness: 1
+  rhythmicContrast: 1
+  saturation: 1
+cta: {}
+layout_spectrum: 0.412162
+name: topleft
+opengraph: {}
 purpose: []
+typography_spectrum: 0.385135
